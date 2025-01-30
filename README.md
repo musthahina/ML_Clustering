@@ -49,7 +49,7 @@ It does not require specifying the number of clusters beforehand, making it suit
 ## Author
 
 - **Musthahina P**
-- **30/01/2025:** [Add the Submission Date]
+- **30/01/2025:** 
 
 ---
 
